@@ -1,0 +1,54 @@
+#equation {
+    color: brown;
+}
+table,td,th{
+    padding: 15px;
+    border: 10px, solid;
+}
+table{
+    width: 100%;
+    background-color: aliceblue;
+}
+td{
+    height: 40px;
+    text-align: center;
+}
+th{
+    height: 60px;
+    text-align: center;
+}
+
+
+body {
+    background-color: beige;
+    margin: 3%;
+}
+h2:hover{
+    color: tomato;
+    opacity: 0.5;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.gradient1 {
+    border: 3px solid;
+    padding: 0px;
+    border-image: linear-gradient(45deg, #69fcdc, rgb(255, 122, 89)) 10;
+}
+
+#my-photo {
+    float: right;
+    margin-bottom: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.5);
+}
+
+#my-photo:hover {
+   cursor: grab;
+}
+
+.my-font {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
