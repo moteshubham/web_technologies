@@ -1,4 +1,4 @@
-simp{
+{
   "name": "project",
   "dependencies": {
     "react": "17.0.2",
